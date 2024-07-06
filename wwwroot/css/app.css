@@ -23,6 +23,8 @@ body {
         "wdth" 100;
     padding: var(--app-space);
     color: var(--app-foregrounc-color);
+    padding-bottom: env(safe-area-inset-bottom);
+    overflow: hidden;
 }
 
 :root {
