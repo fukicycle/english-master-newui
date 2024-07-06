@@ -1,0 +1,29 @@
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+}
+
+::deep .menu-icon {
+    display: flex;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: var(--app-space);
+    flex-direction: column;
+}
+
+span {
+    font-size: 9px;
+    text-decoration: none;
+    color: var(--app-foregrounc-color);
+}
+
+::deep .menu-icon.active {
+    background: rgba(255, 204, 0, 0.33);
+    border: 1px solid rgba(255, 204, 0, 0.61);
+    backdrop-filter: blur(18.9px);
+    border-radius: 30px;
+}

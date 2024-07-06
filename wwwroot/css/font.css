@@ -1,0 +1,142 @@
+ /* <uniquifier>: Use a unique and descriptive class name
+ <weight>: Use a value from 200 to 900 */
+
+ .noto-serif-jp-200 {
+     font-family: "Noto Serif JP", serif;
+     font-optical-sizing: auto;
+     font-weight: 200;
+     font-style: normal;
+ }
+
+ .noto-serif-jp-300 {
+     font-family: "Noto Serif JP", serif;
+     font-optical-sizing: auto;
+     font-weight: 300;
+     font-style: normal;
+ }
+
+ .noto-serif-jp-400 {
+     font-family: "Noto Serif JP", serif;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+ }
+
+ .noto-serif-jp-500 {
+     font-family: "Noto Serif JP", serif;
+     font-optical-sizing: auto;
+     font-weight: 500;
+     font-style: normal;
+ }
+
+ .noto-serif-jp-600 {
+     font-family: "Noto Serif JP", serif;
+     font-optical-sizing: auto;
+     font-weight: 600;
+     font-style: normal;
+ }
+
+ .noto-serif-jp-700 {
+     font-family: "Noto Serif JP", serif;
+     font-optical-sizing: auto;
+     font-weight: 700;
+     font-style: normal;
+ }
+
+ .noto-serif-jp-800 {
+     font-family: "Noto Serif JP", serif;
+     font-optical-sizing: auto;
+     font-weight: 800;
+     font-style: normal;
+ }
+
+ .noto-serif-jp-900 {
+     font-family: "Noto Serif JP", serif;
+     font-optical-sizing: auto;
+     font-weight: 900;
+     font-style: normal;
+ }
+
+ /* <uniquifier>: Use a unique and descriptive class name
+ <weight>: Use a value from 100 to 900 */
+
+ .noto-serif-100 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 100;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
+
+ .noto-serif-200 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 200;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
+
+ .noto-serif-300 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 300;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
+
+ .noto-serif-400 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
+
+ .noto-serif-500 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 500;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
+
+ .noto-serif-600 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 600;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
+
+ .noto-serif-700 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 700;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
+
+ .noto-serif-800 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 800;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
+
+ .noto-serif-900 {
+     font-family: "Noto Serif", serif;
+     font-optical-sizing: auto;
+     font-weight: 900;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
